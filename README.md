@@ -12,6 +12,8 @@ FB10807065-bugreport-demo-app
 - The center label should stay on `base` 
 
 ## Environment:
-iPadOS version: 15.6 (19G71) 
-Device: iPad Pro (12.9-inch) (5th generation) 
+iPadOS version: 15.6 (19G71)
+
+Device: iPad Pro (12.9-inch) (5th generation)
+
 Xcode: 13.4.1 (13F100)
